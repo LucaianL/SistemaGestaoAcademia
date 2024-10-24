@@ -1,0 +1,6 @@
+@Sistema.Academia_HostAddress = http://localhost:5268
+
+GET {{Sistema.Academia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
